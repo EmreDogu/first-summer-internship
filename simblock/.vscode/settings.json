@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "simulator\\src\\main\\java"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}

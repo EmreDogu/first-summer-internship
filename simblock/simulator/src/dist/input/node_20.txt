@@ -1,0 +1,914 @@
+Node 0 has selected 31 as an outgoing connection
+Node 31 has accepted 0 as an incoming connection
+Node 0 has selected 28 as an outgoing connection
+Node 28 has accepted 0 as an incoming connection
+Node 0 has selected 39 as an outgoing connection
+Node 39 has accepted 0 as an incoming connection
+Node 0 has selected 24 as an outgoing connection
+Node 24 has accepted 0 as an incoming connection
+Node 0 has selected 37 as an outgoing connection
+Node 37 has accepted 0 as an incoming connection
+Node 0 has selected 7 as an outgoing connection
+Node 7 has accepted 0 as an incoming connection
+Node 0 has selected 2 as an outgoing connection
+Node 2 has accepted 0 as an incoming connection
+Node 0 has selected 18 as an outgoing connection
+Node 18 has accepted 0 as an incoming connection
+Node 1 has selected 11 as an outgoing connection
+Node 11 has accepted 1 as an incoming connection
+Node 1 has selected 12 as an outgoing connection
+Node 12 has accepted 1 as an incoming connection
+Node 1 has selected 32 as an outgoing connection
+Node 32 has accepted 1 as an incoming connection
+Node 1 has selected 35 as an outgoing connection
+Node 35 has accepted 1 as an incoming connection
+Node 1 has selected 36 as an outgoing connection
+Node 36 has accepted 1 as an incoming connection
+Node 1 has selected 47 as an outgoing connection
+Node 47 has accepted 1 as an incoming connection
+Node 1 has selected 43 as an outgoing connection
+Node 43 has accepted 1 as an incoming connection
+Node 1 has selected 37 as an outgoing connection
+Node 37 has accepted 1 as an incoming connection
+Node 2 has selected 37 as an outgoing connection
+Node 37 has accepted 2 as an incoming connection
+Node 2 has selected 28 as an outgoing connection
+Node 28 has accepted 2 as an incoming connection
+Node 2 has selected 22 as an outgoing connection
+Node 22 has accepted 2 as an incoming connection
+Node 2 has selected 2 as an outgoing connection
+Node 2 has accepted 2 as an incoming connection
+Node 2 has selected 29 as an outgoing connection
+Node 29 has accepted 2 as an incoming connection
+Node 2 has selected 13 as an outgoing connection
+Node 13 has accepted 2 as an incoming connection
+Node 2 has selected 15 as an outgoing connection
+Node 15 has accepted 2 as an incoming connection
+Node 2 has selected 34 as an outgoing connection
+Node 34 has accepted 2 as an incoming connection
+Node 3 has selected 46 as an outgoing connection
+Node 46 has accepted 3 as an incoming connection
+Node 3 has selected 13 as an outgoing connection
+Node 13 has accepted 3 as an incoming connection
+Node 3 has selected 40 as an outgoing connection
+Node 40 has accepted 3 as an incoming connection
+Node 3 has selected 8 as an outgoing connection
+Node 8 has accepted 3 as an incoming connection
+Node 3 has selected 11 as an outgoing connection
+Node 11 has accepted 3 as an incoming connection
+Node 3 has selected 9 as an outgoing connection
+Node 9 has accepted 3 as an incoming connection
+Node 3 has selected 21 as an outgoing connection
+Node 21 has accepted 3 as an incoming connection
+Node 3 has selected 6 as an outgoing connection
+Node 6 has accepted 3 as an incoming connection
+Node 4 has selected 36 as an outgoing connection
+Node 36 has accepted 4 as an incoming connection
+Node 4 has selected 46 as an outgoing connection
+Node 46 has accepted 4 as an incoming connection
+Node 4 has selected 24 as an outgoing connection
+Node 24 has accepted 4 as an incoming connection
+Node 4 has selected 37 as an outgoing connection
+Node 37 has accepted 4 as an incoming connection
+Node 4 has selected 23 as an outgoing connection
+Node 23 has accepted 4 as an incoming connection
+Node 4 has selected 45 as an outgoing connection
+Node 45 has accepted 4 as an incoming connection
+Node 4 has selected 4 as an outgoing connection
+Node 4 has accepted 4 as an incoming connection
+Node 4 has selected 28 as an outgoing connection
+Node 28 has accepted 4 as an incoming connection
+Node 5 has selected 18 as an outgoing connection
+Node 18 has accepted 5 as an incoming connection
+Node 5 has selected 22 as an outgoing connection
+Node 22 has accepted 5 as an incoming connection
+Node 5 has selected 27 as an outgoing connection
+Node 27 has accepted 5 as an incoming connection
+Node 5 has selected 31 as an outgoing connection
+Node 31 has accepted 5 as an incoming connection
+Node 5 has selected 36 as an outgoing connection
+Node 36 has accepted 5 as an incoming connection
+Node 5 has already connected to 36
+Node 5 has already connected to 22
+Node 5 has selected 24 as an outgoing connection
+Node 24 has accepted 5 as an incoming connection
+Node 5 has selected 33 as an outgoing connection
+Node 33 has accepted 5 as an incoming connection
+Node 5 has selected 37 as an outgoing connection
+Node 37 has accepted 5 as an incoming connection
+Node 6 has selected 9 as an outgoing connection
+Node 9 has accepted 6 as an incoming connection
+Node 6 has selected 8 as an outgoing connection
+Node 8 has accepted 6 as an incoming connection
+Node 6 has selected 42 as an outgoing connection
+Node 42 has accepted 6 as an incoming connection
+Node 6 has selected 27 as an outgoing connection
+Node 27 has accepted 6 as an incoming connection
+Node 6 has selected 40 as an outgoing connection
+Node 40 has accepted 6 as an incoming connection
+Node 6 has selected 35 as an outgoing connection
+Node 35 has accepted 6 as an incoming connection
+Node 6 has selected 20 as an outgoing connection
+Node 20 has accepted 6 as an incoming connection
+Node 6 has selected 4 as an outgoing connection
+Node 4 has accepted 6 as an incoming connection
+Node 7 has selected 44 as an outgoing connection
+Node 44 has accepted 7 as an incoming connection
+Node 7 has selected 24 as an outgoing connection
+Node 24 has accepted 7 as an incoming connection
+Node 7 has selected 7 as an outgoing connection
+Node 7 has accepted 7 as an incoming connection
+Node 7 has selected 19 as an outgoing connection
+Node 19 has accepted 7 as an incoming connection
+Node 7 has selected 26 as an outgoing connection
+Node 26 has accepted 7 as an incoming connection
+Node 7 has selected 49 as an outgoing connection
+Node 49 has accepted 7 as an incoming connection
+Node 7 has selected 15 as an outgoing connection
+Node 15 has accepted 7 as an incoming connection
+Node 7 has selected 46 as an outgoing connection
+Node 46 has accepted 7 as an incoming connection
+Node 8 has selected 45 as an outgoing connection
+Node 45 has accepted 8 as an incoming connection
+Node 8 has selected 10 as an outgoing connection
+Node 10 has accepted 8 as an incoming connection
+Node 8 has selected 5 as an outgoing connection
+Node 5 has accepted 8 as an incoming connection
+Node 8 has selected 42 as an outgoing connection
+Node 42 has accepted 8 as an incoming connection
+Node 8 has selected 3 as an outgoing connection
+Node 3 has accepted 8 as an incoming connection
+Node 8 has already connected to 5
+Node 8 has already connected to 42
+Node 8 has selected 48 as an outgoing connection
+Node 48 has accepted 8 as an incoming connection
+Node 8 has selected 47 as an outgoing connection
+Node 47 has accepted 8 as an incoming connection
+Node 8 has selected 34 as an outgoing connection
+Node 34 has accepted 8 as an incoming connection
+Node 9 has selected 25 as an outgoing connection
+Node 25 has accepted 9 as an incoming connection
+Node 9 has selected 37 as an outgoing connection
+Node 37 has accepted 9 as an incoming connection
+Node 9 has selected 46 as an outgoing connection
+Node 46 has accepted 9 as an incoming connection
+Node 9 has selected 6 as an outgoing connection
+Node 6 has accepted 9 as an incoming connection
+Node 9 has selected 11 as an outgoing connection
+Node 11 has accepted 9 as an incoming connection
+Node 9 has selected 33 as an outgoing connection
+Node 33 has accepted 9 as an incoming connection
+Node 9 has selected 45 as an outgoing connection
+Node 45 has accepted 9 as an incoming connection
+Node 9 has selected 2 as an outgoing connection
+Node 2 has accepted 9 as an incoming connection
+Node 10 has selected 0 as an outgoing connection
+Node 0 has accepted 10 as an incoming connection
+Node 10 has selected 13 as an outgoing connection
+Node 13 has accepted 10 as an incoming connection
+Node 10 has selected 35 as an outgoing connection
+Node 35 has accepted 10 as an incoming connection
+Node 10 has selected 41 as an outgoing connection
+Node 41 has accepted 10 as an incoming connection
+Node 10 has selected 40 as an outgoing connection
+Node 40 has accepted 10 as an incoming connection
+Node 10 has selected 4 as an outgoing connection
+Node 4 has accepted 10 as an incoming connection
+Node 10 has selected 43 as an outgoing connection
+Node 43 has accepted 10 as an incoming connection
+Node 10 has selected 2 as an outgoing connection
+Node 2 has accepted 10 as an incoming connection
+Node 11 has selected 44 as an outgoing connection
+Node 44 has accepted 11 as an incoming connection
+Node 11 has selected 49 as an outgoing connection
+Node 49 has accepted 11 as an incoming connection
+Node 11 has selected 5 as an outgoing connection
+Node 5 has accepted 11 as an incoming connection
+Node 11 has selected 30 as an outgoing connection
+Node 30 has accepted 11 as an incoming connection
+Node 11 has selected 16 as an outgoing connection
+Node 16 has accepted 11 as an incoming connection
+Node 11 has selected 46 as an outgoing connection
+Node 46 has accepted 11 as an incoming connection
+Node 11 has selected 45 as an outgoing connection
+Node 45 has accepted 11 as an incoming connection
+Node 11 has already connected to 16
+Node 11 has selected 10 as an outgoing connection
+Node 10 has accepted 11 as an incoming connection
+Node 12 has selected 24 as an outgoing connection
+Node 24 has accepted 12 as an incoming connection
+Node 12 has selected 10 as an outgoing connection
+Node 10 has accepted 12 as an incoming connection
+Node 12 has selected 36 as an outgoing connection
+Node 36 has accepted 12 as an incoming connection
+Node 12 has selected 19 as an outgoing connection
+Node 19 has accepted 12 as an incoming connection
+Node 12 has already connected to 19
+Node 12 has selected 31 as an outgoing connection
+Node 31 has accepted 12 as an incoming connection
+Node 12 has selected 18 as an outgoing connection
+Node 18 has accepted 12 as an incoming connection
+Node 12 has selected 48 as an outgoing connection
+Node 48 has accepted 12 as an incoming connection
+Node 12 has selected 32 as an outgoing connection
+Node 32 has accepted 12 as an incoming connection
+Node 13 has selected 25 as an outgoing connection
+Node 25 has accepted 13 as an incoming connection
+Node 13 has selected 43 as an outgoing connection
+Node 43 has accepted 13 as an incoming connection
+Node 13 has selected 16 as an outgoing connection
+Node 16 has accepted 13 as an incoming connection
+Node 13 has selected 9 as an outgoing connection
+Node 9 has accepted 13 as an incoming connection
+Node 13 has selected 5 as an outgoing connection
+Node 5 has accepted 13 as an incoming connection
+Node 13 has selected 2 as an outgoing connection
+Node 2 has accepted 13 as an incoming connection
+Node 13 has selected 29 as an outgoing connection
+Node 29 has accepted 13 as an incoming connection
+Node 13 has selected 22 as an outgoing connection
+Node 22 has accepted 13 as an incoming connection
+Node 14 has selected 15 as an outgoing connection
+Node 15 has accepted 14 as an incoming connection
+Node 14 has selected 18 as an outgoing connection
+Node 18 has accepted 14 as an incoming connection
+Node 14 has selected 28 as an outgoing connection
+Node 28 has accepted 14 as an incoming connection
+Node 14 has selected 30 as an outgoing connection
+Node 30 has accepted 14 as an incoming connection
+Node 14 has selected 44 as an outgoing connection
+Node 44 has accepted 14 as an incoming connection
+Node 14 has selected 41 as an outgoing connection
+Node 41 has accepted 14 as an incoming connection
+Node 14 has selected 29 as an outgoing connection
+Node 29 has accepted 14 as an incoming connection
+Node 14 has selected 6 as an outgoing connection
+Node 6 has accepted 14 as an incoming connection
+Node 15 has selected 42 as an outgoing connection
+Node 42 has accepted 15 as an incoming connection
+Node 15 has selected 39 as an outgoing connection
+Node 39 has accepted 15 as an incoming connection
+Node 15 has selected 45 as an outgoing connection
+Node 45 has accepted 15 as an incoming connection
+Node 15 has already connected to 39
+Node 15 has selected 15 as an outgoing connection
+Node 15 has accepted 15 as an incoming connection
+Node 15 has selected 44 as an outgoing connection
+Node 44 has accepted 15 as an incoming connection
+Node 15 has selected 49 as an outgoing connection
+Node 49 has accepted 15 as an incoming connection
+Node 15 has selected 35 as an outgoing connection
+Node 35 has accepted 15 as an incoming connection
+Node 15 has selected 38 as an outgoing connection
+Node 38 has accepted 15 as an incoming connection
+Node 16 has selected 9 as an outgoing connection
+Node 9 has accepted 16 as an incoming connection
+Node 16 has selected 0 as an outgoing connection
+Node 0 has accepted 16 as an incoming connection
+Node 16 has selected 13 as an outgoing connection
+Node 13 has accepted 16 as an incoming connection
+Node 16 has selected 37 as an outgoing connection
+Node 37 has accepted 16 as an incoming connection
+Node 16 has selected 2 as an outgoing connection
+Node 2 has accepted 16 as an incoming connection
+Node 16 has selected 8 as an outgoing connection
+Node 8 has accepted 16 as an incoming connection
+Node 16 has selected 10 as an outgoing connection
+Node 10 has accepted 16 as an incoming connection
+Node 16 has selected 36 as an outgoing connection
+Node 36 has accepted 16 as an incoming connection
+Node 17 has selected 28 as an outgoing connection
+Node 28 has accepted 17 as an incoming connection
+Node 17 has selected 12 as an outgoing connection
+Node 12 has accepted 17 as an incoming connection
+Node 17 has selected 0 as an outgoing connection
+Node 0 has accepted 17 as an incoming connection
+Node 17 has selected 24 as an outgoing connection
+Node 24 has accepted 17 as an incoming connection
+Node 17 has selected 16 as an outgoing connection
+Node 16 has accepted 17 as an incoming connection
+Node 17 has selected 46 as an outgoing connection
+Node 46 has accepted 17 as an incoming connection
+Node 17 has selected 39 as an outgoing connection
+Node 39 has accepted 17 as an incoming connection
+Node 17 has selected 11 as an outgoing connection
+Node 11 has accepted 17 as an incoming connection
+Node 18 has selected 44 as an outgoing connection
+Node 44 has accepted 18 as an incoming connection
+Node 18 has selected 32 as an outgoing connection
+Node 32 has accepted 18 as an incoming connection
+Node 18 has selected 45 as an outgoing connection
+Node 45 has accepted 18 as an incoming connection
+Node 18 has selected 34 as an outgoing connection
+Node 34 has accepted 18 as an incoming connection
+Node 18 has selected 25 as an outgoing connection
+Node 25 has accepted 18 as an incoming connection
+Node 18 has selected 23 as an outgoing connection
+Node 23 has accepted 18 as an incoming connection
+Node 18 has selected 41 as an outgoing connection
+Node 41 has accepted 18 as an incoming connection
+Node 18 has selected 16 as an outgoing connection
+Node 16 has accepted 18 as an incoming connection
+Node 19 has selected 34 as an outgoing connection
+Node 34 has accepted 19 as an incoming connection
+Node 19 has selected 47 as an outgoing connection
+Node 47 has accepted 19 as an incoming connection
+Node 19 has selected 29 as an outgoing connection
+Node 29 has accepted 19 as an incoming connection
+Node 19 has selected 8 as an outgoing connection
+Node 8 has accepted 19 as an incoming connection
+Node 19 has selected 40 as an outgoing connection
+Node 40 has accepted 19 as an incoming connection
+Node 19 has already connected to 29
+Node 19 has selected 36 as an outgoing connection
+Node 36 has accepted 19 as an incoming connection
+Node 19 has selected 6 as an outgoing connection
+Node 6 has accepted 19 as an incoming connection
+Node 19 has selected 20 as an outgoing connection
+Node 20 has accepted 19 as an incoming connection
+Node 20 has selected 13 as an outgoing connection
+Node 13 has accepted 20 as an incoming connection
+Node 20 has selected 34 as an outgoing connection
+Node 34 has accepted 20 as an incoming connection
+Node 20 has selected 0 as an outgoing connection
+Node 0 has accepted 20 as an incoming connection
+Node 20 has selected 5 as an outgoing connection
+Node 5 has accepted 20 as an incoming connection
+Node 20 has selected 10 as an outgoing connection
+Node 10 has accepted 20 as an incoming connection
+Node 20 has selected 27 as an outgoing connection
+Node 27 has accepted 20 as an incoming connection
+Node 20 has selected 38 as an outgoing connection
+Node 38 has accepted 20 as an incoming connection
+Node 20 has selected 16 as an outgoing connection
+Node 16 has accepted 20 as an incoming connection
+Node 21 has selected 46 as an outgoing connection
+Node 46 has accepted 21 as an incoming connection
+Node 21 has selected 15 as an outgoing connection
+Node 15 has accepted 21 as an incoming connection
+Node 21 has selected 20 as an outgoing connection
+Node 20 has accepted 21 as an incoming connection
+Node 21 has selected 18 as an outgoing connection
+Node 18 has accepted 21 as an incoming connection
+Node 21 has selected 11 as an outgoing connection
+Node 11 has accepted 21 as an incoming connection
+Node 21 has already connected to 46
+Node 21 has selected 14 as an outgoing connection
+Node 14 has accepted 21 as an incoming connection
+Node 21 has selected 45 as an outgoing connection
+Node 45 has accepted 21 as an incoming connection
+Node 21 has selected 13 as an outgoing connection
+Node 13 has accepted 21 as an incoming connection
+Node 22 has selected 27 as an outgoing connection
+Node 27 has accepted 22 as an incoming connection
+Node 22 has selected 21 as an outgoing connection
+Node 21 has accepted 22 as an incoming connection
+Node 22 has selected 46 as an outgoing connection
+Node 46 has accepted 22 as an incoming connection
+Node 22 has selected 49 as an outgoing connection
+Node 49 has accepted 22 as an incoming connection
+Node 22 has selected 26 as an outgoing connection
+Node 26 has accepted 22 as an incoming connection
+Node 22 has selected 43 as an outgoing connection
+Node 43 has accepted 22 as an incoming connection
+Node 22 has selected 18 as an outgoing connection
+Node 18 has accepted 22 as an incoming connection
+Node 22 has selected 12 as an outgoing connection
+Node 12 has accepted 22 as an incoming connection
+Node 23 has selected 23 as an outgoing connection
+Node 23 has accepted 23 as an incoming connection
+Node 23 has selected 47 as an outgoing connection
+Node 47 has accepted 23 as an incoming connection
+Node 23 has selected 18 as an outgoing connection
+Node 18 has accepted 23 as an incoming connection
+Node 23 has already connected to 23
+Node 23 has selected 25 as an outgoing connection
+Node 25 has accepted 23 as an incoming connection
+Node 23 has selected 39 as an outgoing connection
+Node 39 has accepted 23 as an incoming connection
+Node 23 has selected 8 as an outgoing connection
+Node 8 has accepted 23 as an incoming connection
+Node 23 has already connected to 8
+Node 23 has selected 24 as an outgoing connection
+Node 24 has accepted 23 as an incoming connection
+Node 23 has selected 40 as an outgoing connection
+Node 40 has accepted 23 as an incoming connection
+Node 24 has selected 19 as an outgoing connection
+Node 19 has accepted 24 as an incoming connection
+Node 24 has selected 5 as an outgoing connection
+Node 5 has accepted 24 as an incoming connection
+Node 24 has selected 18 as an outgoing connection
+Node 18 has accepted 24 as an incoming connection
+Node 24 has selected 15 as an outgoing connection
+Node 15 has accepted 24 as an incoming connection
+Node 24 has selected 22 as an outgoing connection
+Node 22 has accepted 24 as an incoming connection
+Node 24 has selected 21 as an outgoing connection
+Node 21 has accepted 24 as an incoming connection
+Node 24 has already connected to 22
+Node 24 has selected 41 as an outgoing connection
+Node 41 has accepted 24 as an incoming connection
+Node 24 has selected 13 as an outgoing connection
+Node 13 has accepted 24 as an incoming connection
+Node 25 has selected 26 as an outgoing connection
+Node 26 has accepted 25 as an incoming connection
+Node 25 has selected 30 as an outgoing connection
+Node 30 has accepted 25 as an incoming connection
+Node 25 has selected 12 as an outgoing connection
+Node 12 has accepted 25 as an incoming connection
+Node 25 has selected 29 as an outgoing connection
+Node 29 has accepted 25 as an incoming connection
+Node 25 has selected 28 as an outgoing connection
+Node 28 has accepted 25 as an incoming connection
+Node 25 has selected 15 as an outgoing connection
+Node 15 has accepted 25 as an incoming connection
+Node 25 has selected 40 as an outgoing connection
+Node 40 has accepted 25 as an incoming connection
+Node 25 has selected 0 as an outgoing connection
+Node 0 has accepted 25 as an incoming connection
+Node 26 has selected 6 as an outgoing connection
+Node 6 has accepted 26 as an incoming connection
+Node 26 has selected 38 as an outgoing connection
+Node 38 has accepted 26 as an incoming connection
+Node 26 has selected 23 as an outgoing connection
+Node 23 has accepted 26 as an incoming connection
+Node 26 has already connected to 38
+Node 26 has selected 1 as an outgoing connection
+Node 1 has accepted 26 as an incoming connection
+Node 26 has selected 45 as an outgoing connection
+Node 45 has accepted 26 as an incoming connection
+Node 26 has selected 48 as an outgoing connection
+Node 48 has accepted 26 as an incoming connection
+Node 26 has selected 44 as an outgoing connection
+Node 44 has accepted 26 as an incoming connection
+Node 26 has selected 14 as an outgoing connection
+Node 14 has accepted 26 as an incoming connection
+Node 27 has selected 39 as an outgoing connection
+Node 39 has accepted 27 as an incoming connection
+Node 27 has selected 4 as an outgoing connection
+Node 4 has accepted 27 as an incoming connection
+Node 27 has selected 41 as an outgoing connection
+Node 41 has accepted 27 as an incoming connection
+Node 27 has selected 18 as an outgoing connection
+Node 18 has accepted 27 as an incoming connection
+Node 27 has selected 22 as an outgoing connection
+Node 22 has accepted 27 as an incoming connection
+Node 27 has selected 7 as an outgoing connection
+Node 7 has accepted 27 as an incoming connection
+Node 27 has selected 45 as an outgoing connection
+Node 45 has accepted 27 as an incoming connection
+Node 27 has selected 36 as an outgoing connection
+Node 36 has accepted 27 as an incoming connection
+Node 28 has selected 2 as an outgoing connection
+Node 2 has accepted 28 as an incoming connection
+Node 28 has selected 49 as an outgoing connection
+Node 49 has accepted 28 as an incoming connection
+Node 28 has selected 36 as an outgoing connection
+Node 36 has accepted 28 as an incoming connection
+Node 28 has selected 18 as an outgoing connection
+Node 18 has accepted 28 as an incoming connection
+Node 28 has selected 9 as an outgoing connection
+Node 9 has accepted 28 as an incoming connection
+Node 28 has selected 20 as an outgoing connection
+Node 20 has accepted 28 as an incoming connection
+Node 28 has selected 11 as an outgoing connection
+Node 11 has accepted 28 as an incoming connection
+Node 28 has selected 47 as an outgoing connection
+Node 47 has accepted 28 as an incoming connection
+Node 29 has selected 20 as an outgoing connection
+Node 20 has accepted 29 as an incoming connection
+Node 29 has selected 37 as an outgoing connection
+Node 37 has accepted 29 as an incoming connection
+Node 29 has selected 45 as an outgoing connection
+Node 45 has accepted 29 as an incoming connection
+Node 29 has selected 38 as an outgoing connection
+Node 38 has accepted 29 as an incoming connection
+Node 29 has selected 5 as an outgoing connection
+Node 5 has accepted 29 as an incoming connection
+Node 29 has selected 35 as an outgoing connection
+Node 35 has accepted 29 as an incoming connection
+Node 29 has already connected to 45
+Node 29 has selected 14 as an outgoing connection
+Node 14 has accepted 29 as an incoming connection
+Node 29 has selected 46 as an outgoing connection
+Node 46 has accepted 29 as an incoming connection
+Node 30 has selected 20 as an outgoing connection
+Node 20 has accepted 30 as an incoming connection
+Node 30 has selected 41 as an outgoing connection
+Node 41 has accepted 30 as an incoming connection
+Node 30 has selected 43 as an outgoing connection
+Node 43 has accepted 30 as an incoming connection
+Node 30 has selected 14 as an outgoing connection
+Node 14 has accepted 30 as an incoming connection
+Node 30 has selected 11 as an outgoing connection
+Node 11 has accepted 30 as an incoming connection
+Node 30 has selected 8 as an outgoing connection
+Node 8 has accepted 30 as an incoming connection
+Node 30 has selected 17 as an outgoing connection
+Node 17 has accepted 30 as an incoming connection
+Node 30 has selected 3 as an outgoing connection
+Node 3 has accepted 30 as an incoming connection
+Node 31 has selected 27 as an outgoing connection
+Node 27 has accepted 31 as an incoming connection
+Node 31 has selected 15 as an outgoing connection
+Node 15 has accepted 31 as an incoming connection
+Node 31 has selected 17 as an outgoing connection
+Node 17 has accepted 31 as an incoming connection
+Node 31 has selected 23 as an outgoing connection
+Node 23 has accepted 31 as an incoming connection
+Node 31 has selected 26 as an outgoing connection
+Node 26 has accepted 31 as an incoming connection
+Node 31 has selected 36 as an outgoing connection
+Node 36 has accepted 31 as an incoming connection
+Node 31 has selected 10 as an outgoing connection
+Node 10 has accepted 31 as an incoming connection
+Node 31 has selected 37 as an outgoing connection
+Node 37 has accepted 31 as an incoming connection
+Node 32 has already 10 connections
+Node 32 has selected 9 as an outgoing connection
+Node 9 has accepted 32 as an incoming connection
+Node 32 has selected 4 as an outgoing connection
+Node 4 has accepted 32 as an incoming connection
+Node 32 has selected 26 as an outgoing connection
+Node 26 has accepted 32 as an incoming connection
+Node 32 has selected 12 as an outgoing connection
+Node 12 has accepted 32 as an incoming connection
+Node 32 has selected 15 as an outgoing connection
+Node 15 has accepted 32 as an incoming connection
+Node 32 has already connected to 9
+Node 32 has selected 24 as an outgoing connection
+Node 24 has accepted 32 as an incoming connection
+Node 32 has selected 35 as an outgoing connection
+Node 35 has accepted 32 as an incoming connection
+Node 32 has selected 13 as an outgoing connection
+Node 13 has accepted 32 as an incoming connection
+Node 33 has selected 41 as an outgoing connection
+Node 41 has accepted 33 as an incoming connection
+Node 33 has selected 24 as an outgoing connection
+Node 24 has accepted 33 as an incoming connection
+Node 33 has selected 21 as an outgoing connection
+Node 21 has accepted 33 as an incoming connection
+Node 33 has already 10 connections
+Node 33 has selected 15 as an outgoing connection
+Node 15 has accepted 33 as an incoming connection
+Node 33 has selected 31 as an outgoing connection
+Node 31 has accepted 33 as an incoming connection
+Node 33 has selected 17 as an outgoing connection
+Node 17 has accepted 33 as an incoming connection
+Node 33 has already connected to 24
+Node 33 has selected 0 as an outgoing connection
+Node 0 has accepted 33 as an incoming connection
+Node 33 has already connected to 21
+Node 33 has selected 47 as an outgoing connection
+Node 47 has accepted 33 as an incoming connection
+Node 34 has selected 23 as an outgoing connection
+Node 23 has accepted 34 as an incoming connection
+Node 34 has selected 37 as an outgoing connection
+Node 37 has accepted 34 as an incoming connection
+Node 34 has selected 8 as an outgoing connection
+Node 8 has accepted 34 as an incoming connection
+Node 34 has already connected to 8
+Node 34 has selected 0 as an outgoing connection
+Node 0 has accepted 34 as an incoming connection
+Node 34 has selected 3 as an outgoing connection
+Node 3 has accepted 34 as an incoming connection
+Node 34 has selected 46 as an outgoing connection
+Node 46 has accepted 34 as an incoming connection
+Node 34 has selected 47 as an outgoing connection
+Node 47 has accepted 34 as an incoming connection
+Node 34 has selected 31 as an outgoing connection
+Node 31 has accepted 34 as an incoming connection
+Node 35 has selected 5 as an outgoing connection
+Node 5 has accepted 35 as an incoming connection
+Node 35 has selected 14 as an outgoing connection
+Node 14 has accepted 35 as an incoming connection
+Node 35 has selected 35 as an outgoing connection
+Node 35 has accepted 35 as an incoming connection
+Node 35 has selected 30 as an outgoing connection
+Node 30 has accepted 35 as an incoming connection
+Node 35 has selected 42 as an outgoing connection
+Node 42 has accepted 35 as an incoming connection
+Node 35 has selected 17 as an outgoing connection
+Node 17 has accepted 35 as an incoming connection
+Node 35 has selected 28 as an outgoing connection
+Node 28 has accepted 35 as an incoming connection
+Node 35 has selected 25 as an outgoing connection
+Node 25 has accepted 35 as an incoming connection
+Node 36 has already 10 connections
+Node 36 has selected 47 as an outgoing connection
+Node 47 has accepted 36 as an incoming connection
+Node 36 has selected 0 as an outgoing connection
+Node 0 has accepted 36 as an incoming connection
+Node 36 has already connected to 47
+Node 36 has selected 9 as an outgoing connection
+Node 9 has accepted 36 as an incoming connection
+Node 36 has selected 31 as an outgoing connection
+Node 31 has accepted 36 as an incoming connection
+Node 36 has selected 8 as an outgoing connection
+Node 8 has accepted 36 as an incoming connection
+Node 36 has selected 16 as an outgoing connection
+Node 16 has accepted 36 as an incoming connection
+Node 36 has selected 43 as an outgoing connection
+Node 43 has accepted 36 as an incoming connection
+Node 36 has selected 38 as an outgoing connection
+Node 38 has accepted 36 as an incoming connection
+Node 37 has selected 12 as an outgoing connection
+Node 12 has accepted 37 as an incoming connection
+Node 37 has selected 43 as an outgoing connection
+Node 43 has accepted 37 as an incoming connection
+Node 37 has selected 9 as an outgoing connection
+Node 9 has accepted 37 as an incoming connection
+Node 37 has selected 25 as an outgoing connection
+Node 25 has accepted 37 as an incoming connection
+Node 37 has already connected to 25
+Node 37 has selected 23 as an outgoing connection
+Node 23 has accepted 37 as an incoming connection
+Node 37 has selected 26 as an outgoing connection
+Node 26 has accepted 37 as an incoming connection
+Node 37 has selected 28 as an outgoing connection
+Node 28 has accepted 37 as an incoming connection
+Node 37 has already 10 connections
+Node 37 has selected 32 as an outgoing connection
+Node 32 has accepted 37 as an incoming connection
+Node 38 has selected 1 as an outgoing connection
+Node 1 has accepted 38 as an incoming connection
+Node 38 has selected 24 as an outgoing connection
+Node 24 has accepted 38 as an incoming connection
+Node 38 has selected 21 as an outgoing connection
+Node 21 has accepted 38 as an incoming connection
+Node 38 has selected 43 as an outgoing connection
+Node 43 has accepted 38 as an incoming connection
+Node 38 has selected 7 as an outgoing connection
+Node 7 has accepted 38 as an incoming connection
+Node 38 has selected 17 as an outgoing connection
+Node 17 has accepted 38 as an incoming connection
+Node 38 has selected 12 as an outgoing connection
+Node 12 has accepted 38 as an incoming connection
+Node 38 has already connected to 7
+Node 38 has selected 14 as an outgoing connection
+Node 14 has accepted 38 as an incoming connection
+Node 39 has already 10 connections
+Node 39 has selected 5 as an outgoing connection
+Node 5 has accepted 39 as an incoming connection
+Node 39 has selected 30 as an outgoing connection
+Node 30 has accepted 39 as an incoming connection
+Node 39 has already 10 connections
+Node 39 has selected 23 as an outgoing connection
+Node 23 has accepted 39 as an incoming connection
+Node 39 has selected 14 as an outgoing connection
+Node 14 has accepted 39 as an incoming connection
+Node 39 has already 10 connections
+Node 39 has selected 1 as an outgoing connection
+Node 1 has accepted 39 as an incoming connection
+Node 39 has selected 12 as an outgoing connection
+Node 12 has accepted 39 as an incoming connection
+Node 39 has selected 27 as an outgoing connection
+Node 27 has accepted 39 as an incoming connection
+Node 39 has already connected to 30
+Node 39 has selected 21 as an outgoing connection
+Node 21 has accepted 39 as an incoming connection
+Node 40 has selected 49 as an outgoing connection
+Node 49 has accepted 40 as an incoming connection
+Node 40 has selected 41 as an outgoing connection
+Node 41 has accepted 40 as an incoming connection
+Node 40 has selected 4 as an outgoing connection
+Node 4 has accepted 40 as an incoming connection
+Node 40 has selected 10 as an outgoing connection
+Node 10 has accepted 40 as an incoming connection
+Node 40 has selected 34 as an outgoing connection
+Node 34 has accepted 40 as an incoming connection
+Node 40 has selected 14 as an outgoing connection
+Node 14 has accepted 40 as an incoming connection
+Node 40 has selected 7 as an outgoing connection
+Node 7 has accepted 40 as an incoming connection
+Node 40 has already connected to 49
+Node 40 has selected 26 as an outgoing connection
+Node 26 has accepted 40 as an incoming connection
+Node 41 has selected 5 as an outgoing connection
+Node 5 has accepted 41 as an incoming connection
+Node 41 has already 10 connections
+Node 41 has selected 49 as an outgoing connection
+Node 49 has accepted 41 as an incoming connection
+Node 41 has selected 6 as an outgoing connection
+Node 6 has accepted 41 as an incoming connection
+Node 41 has selected 33 as an outgoing connection
+Node 33 has accepted 41 as an incoming connection
+Node 41 has selected 11 as an outgoing connection
+Node 11 has accepted 41 as an incoming connection
+Node 41 has selected 20 as an outgoing connection
+Node 20 has accepted 41 as an incoming connection
+Node 41 has already 10 connections
+Node 41 has selected 34 as an outgoing connection
+Node 34 has accepted 41 as an incoming connection
+Node 41 has selected 41 as an outgoing connection
+Node 41 has accepted 41 as an incoming connection
+Node 42 has selected 3 as an outgoing connection
+Node 3 has accepted 42 as an incoming connection
+Node 42 has selected 42 as an outgoing connection
+Node 42 has accepted 42 as an incoming connection
+Node 42 has selected 25 as an outgoing connection
+Node 25 has accepted 42 as an incoming connection
+Node 42 has selected 44 as an outgoing connection
+Node 44 has accepted 42 as an incoming connection
+Node 42 has selected 0 as an outgoing connection
+Node 0 has accepted 42 as an incoming connection
+Node 42 has already connected to 25
+Node 42 has selected 14 as an outgoing connection
+Node 14 has accepted 42 as an incoming connection
+Node 42 has selected 29 as an outgoing connection
+Node 29 has accepted 42 as an incoming connection
+Node 42 has selected 36 as an outgoing connection
+Node 36 has accepted 42 as an incoming connection
+Node 43 has already 10 connections
+Node 43 has selected 42 as an outgoing connection
+Node 42 has accepted 43 as an incoming connection
+Node 43 has selected 0 as an outgoing connection
+Node 0 has accepted 43 as an incoming connection
+Node 43 has selected 13 as an outgoing connection
+Node 13 has accepted 43 as an incoming connection
+Node 43 has selected 40 as an outgoing connection
+Node 40 has accepted 43 as an incoming connection
+Node 43 has selected 17 as an outgoing connection
+Node 17 has accepted 43 as an incoming connection
+Node 43 has selected 7 as an outgoing connection
+Node 7 has accepted 43 as an incoming connection
+Node 43 has already connected to 40
+Node 43 has selected 47 as an outgoing connection
+Node 47 has accepted 43 as an incoming connection
+Node 43 has already 10 connections
+Node 43 has already 10 connections
+Node 43 has already 10 connections
+Node 43 has already 10 connections
+Node 43 has already connected to 47
+Node 43 has already 10 connections
+Node 43 has already connected to 13
+Node 43 has already connected to 17
+Node 43 has already connected to 42
+Node 43 has selected 1 as an outgoing connection
+Node 1 has accepted 43 as an incoming connection
+Node 44 has selected 35 as an outgoing connection
+Node 35 has accepted 44 as an incoming connection
+Node 44 has selected 11 as an outgoing connection
+Node 11 has accepted 44 as an incoming connection
+Node 44 has selected 29 as an outgoing connection
+Node 29 has accepted 44 as an incoming connection
+Node 44 has selected 31 as an outgoing connection
+Node 31 has accepted 44 as an incoming connection
+Node 44 has already connected to 29
+Node 44 has selected 8 as an outgoing connection
+Node 8 has accepted 44 as an incoming connection
+Node 44 has selected 12 as an outgoing connection
+Node 12 has accepted 44 as an incoming connection
+Node 44 has selected 20 as an outgoing connection
+Node 20 has accepted 44 as an incoming connection
+Node 44 has selected 21 as an outgoing connection
+Node 21 has accepted 44 as an incoming connection
+Node 45 has selected 4 as an outgoing connection
+Node 4 has accepted 45 as an incoming connection
+Node 45 has selected 42 as an outgoing connection
+Node 42 has accepted 45 as an incoming connection
+Node 45 has selected 28 as an outgoing connection
+Node 28 has accepted 45 as an incoming connection
+Node 45 has already 10 connections
+Node 45 has selected 5 as an outgoing connection
+Node 5 has accepted 45 as an incoming connection
+Node 45 has selected 9 as an outgoing connection
+Node 9 has accepted 45 as an incoming connection
+Node 45 has already connected to 5
+Node 45 has selected 22 as an outgoing connection
+Node 22 has accepted 45 as an incoming connection
+Node 45 has selected 47 as an outgoing connection
+Node 47 has accepted 45 as an incoming connection
+Node 45 has already 10 connections
+Node 45 has selected 43 as an outgoing connection
+Node 43 has accepted 45 as an incoming connection
+Node 46 has selected 8 as an outgoing connection
+Node 8 has accepted 46 as an incoming connection
+Node 46 has already 10 connections
+Node 46 has already 10 connections
+Node 46 has selected 16 as an outgoing connection
+Node 16 has accepted 46 as an incoming connection
+Node 46 has selected 3 as an outgoing connection
+Node 3 has accepted 46 as an incoming connection
+Node 46 has selected 48 as an outgoing connection
+Node 48 has accepted 46 as an incoming connection
+Node 46 has already 10 connections
+Node 46 has selected 41 as an outgoing connection
+Node 41 has accepted 46 as an incoming connection
+Node 46 has selected 40 as an outgoing connection
+Node 40 has accepted 46 as an incoming connection
+Node 46 has selected 49 as an outgoing connection
+Node 49 has accepted 46 as an incoming connection
+Node 46 has selected 23 as an outgoing connection
+Node 23 has accepted 46 as an incoming connection
+Node 47 has selected 16 as an outgoing connection
+Node 16 has accepted 47 as an incoming connection
+Node 47 has selected 13 as an outgoing connection
+Node 13 has accepted 47 as an incoming connection
+Node 47 has selected 28 as an outgoing connection
+Node 28 has accepted 47 as an incoming connection
+Node 47 has already 10 connections
+Node 47 has already 10 connections
+Node 47 has already 10 connections
+Node 47 has already 10 connections
+Node 47 has selected 27 as an outgoing connection
+Node 27 has accepted 47 as an incoming connection
+Node 47 has selected 19 as an outgoing connection
+Node 19 has accepted 47 as an incoming connection
+Node 47 has selected 20 as an outgoing connection
+Node 20 has accepted 47 as an incoming connection
+Node 47 has already 10 connections
+Node 47 has already 10 connections
+Node 47 has already connected to 19
+Node 47 has already 10 connections
+Node 47 has selected 6 as an outgoing connection
+Node 6 has accepted 47 as an incoming connection
+Node 47 has selected 2 as an outgoing connection
+Node 2 has accepted 47 as an incoming connection
+Node 48 has selected 42 as an outgoing connection
+Node 42 has accepted 48 as an incoming connection
+Node 48 has already 10 connections
+Node 48 has selected 23 as an outgoing connection
+Node 23 has accepted 48 as an incoming connection
+Node 48 has selected 16 as an outgoing connection
+Node 16 has accepted 48 as an incoming connection
+Node 48 has already 10 connections
+Node 48 has selected 31 as an outgoing connection
+Node 31 has accepted 48 as an incoming connection
+Node 48 has already connected to 31
+Node 48 has selected 43 as an outgoing connection
+Node 43 has accepted 48 as an incoming connection
+Node 48 has selected 26 as an outgoing connection
+Node 26 has accepted 48 as an incoming connection
+Node 48 has selected 44 as an outgoing connection
+Node 44 has accepted 48 as an incoming connection
+Node 48 has selected 20 as an outgoing connection
+Node 20 has accepted 48 as an incoming connection
+Node 49 has selected 31 as an outgoing connection
+Node 31 has accepted 49 as an incoming connection
+Node 49 has selected 21 as an outgoing connection
+Node 21 has accepted 49 as an incoming connection
+Node 49 has selected 42 as an outgoing connection
+Node 42 has accepted 49 as an incoming connection
+Node 49 has selected 40 as an outgoing connection
+Node 40 has accepted 49 as an incoming connection
+Node 49 has already 10 connections
+Node 49 has selected 44 as an outgoing connection
+Node 44 has accepted 49 as an incoming connection
+Node 49 has selected 9 as an outgoing connection
+Node 9 has accepted 49 as an incoming connection
+Node 49 has already 10 connections
+Node 49 has selected 35 as an outgoing connection
+Node 35 has accepted 49 as an incoming connection
+Node 49 has selected 48 as an outgoing connection
+Node 48 has accepted 49 as an incoming connection
+0,1,31,28,39,24,37,7,2,18
+1,0,11,12,32,35,36,47,43,37
+2,1,37,28,22,2,29,13,15,34
+3,1,46,13,40,8,11,9,21,6
+4,1,36,46,24,37,23,45,4,28
+5,0,18,22,27,31,36,24,33,37
+6,1,9,8,42,27,40,35,20,4
+7,0,44,24,7,19,26,49,15,46
+8,0,45,10,5,42,3,48,47,34
+9,1,25,37,46,6,11,33,45,2
+10,0,0,13,35,41,40,4,43,2
+11,3,44,49,5,30,16,46,45,10
+12,1,24,10,36,19,31,18,48,32
+13,0,25,43,16,9,5,2,29,22
+14,0,15,18,28,30,44,41,29,6
+15,5,42,39,45,15,44,49,35,38
+16,0,9,0,13,37,2,8,10,36
+17,4,28,12,0,24,16,46,39,11
+18,1,44,32,45,34,25,23,41,16
+19,1,34,47,29,8,40,36,6,20
+20,0,13,34,0,5,10,27,38,16
+21,1,46,15,20,18,11,14,45,13
+22,1,27,21,46,49,26,43,18,12
+23,1,23,47,18,25,39,8,24,40
+24,0,19,5,18,15,22,21,41,13
+25,3,26,30,12,29,28,15,40,0
+26,0,6,38,23,1,45,48,44,14
+27,1,39,4,41,18,22,7,45,36
+28,0,2,49,36,18,9,20,11,47
+29,1,20,37,45,38,5,35,14,46
+30,0,20,41,43,14,11,8,17,3
+31,0,27,15,17,23,26,36,10,37
+32,1,9,4,26,12,15,24,35,13
+33,0,41,24,21,15,31,17,0,47
+34,1,23,37,8,0,3,46,47,31
+35,1,5,14,35,30,42,17,28,25
+36,3,47,0,9,31,8,16,43,38
+37,0,12,43,9,25,23,26,28,32
+38,1,1,24,21,43,7,17,12,14
+39,3,5,30,23,14,1,12,27,21
+40,1,49,41,4,10,34,14,7,26
+41,1,5,49,6,33,11,20,34,41
+42,0,3,42,25,44,0,14,29,36
+43,1,42,0,13,40,17,7,47,1
+44,1,35,11,29,31,8,12,20,21
+45,1,4,42,28,5,9,22,47,43
+46,0,8,16,3,48,41,40,49,23
+47,1,16,13,28,27,19,20,6,2
+48,0,42,23,16,31,43,26,44,20
+49,1,31,21,42,40,44,9,35,48

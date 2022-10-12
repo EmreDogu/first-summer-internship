@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "simblock/lib/gson-2.2.2.jar"
+    ]
+}
